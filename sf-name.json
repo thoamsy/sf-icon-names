@@ -1,4 +1,5 @@
 {
+  "version": 0.1,
   "public": [
     "0.circle.fill",
     "0.circle",
