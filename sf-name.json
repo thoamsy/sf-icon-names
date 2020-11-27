@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "MultiColor": [
+  "Multicolor": [
     "pencil.tip.crop.circle.badge.plus",
     "pencil.tip.crop.circle.badge.minus",
     "trash.circle.fill",
@@ -330,7 +330,7 @@
     "aqi.medium",
     "aqi.high"
   ],
-  "Objects&Tools": [
+  "ObjectsAndTools": [
     "pencil",
     "pencil.circle",
     "pencil.circle.fill",
